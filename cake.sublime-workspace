@@ -1,0 +1,529 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"session",
+				"session_destroy"
+			],
+			[
+				"sess",
+				"session_start"
+			],
+			[
+				"inc",
+				"include"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"s",
+				"style	Attr"
+			],
+			[
+				"is",
+				"isset"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"margi",
+				"margin"
+			],
+			[
+				"local",
+				"localhost"
+			],
+			[
+				"prod",
+				"produto"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "app/Model/Post.php",
+			"settings":
+			{
+				"buffer_size": 216,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/Controller/PostsController.php",
+			"settings":
+			{
+				"buffer_size": 1439,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/View/Posts/edit.ctp",
+			"settings":
+			{
+				"buffer_size": 439,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/View/Posts/add.ctp",
+			"settings":
+			{
+				"buffer_size": 335,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/View/Posts/index.ctp",
+			"settings":
+			{
+				"buffer_size": 1254,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/Config/routes.php",
+			"settings":
+			{
+				"buffer_size": 1730,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/View/Posts/view.ctp",
+			"settings":
+			{
+				"buffer_size": 297,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 235.0,
+		"selected_items":
+		[
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"php",
+				"Set Syntax: PHP"
+			],
+			[
+				"css",
+				"Set Syntax: CSS"
+			],
+			[
+				"xml",
+				"Set Syntax: XML"
+			]
+		],
+		"width": 386.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/wamp/www/cakephp/app/Controller/PostController.php",
+		"/C/wamp/www/cakephp/app/Model/post.php",
+		"/C/wamp/www/cakephp/.htaccess",
+		"/C/wamp/www/cakephp/app/Config/database.php",
+		"/C/wamp/www/cakephp/app/Config/core.php",
+		"/C/Users/OneshoesWesley/Desktop/Oneshoes 27-9.html",
+		"/C/wamp/www/forum/topic.php",
+		"/C/Users/OneshoesWesley/Desktop/Oneshoes 19.html",
+		"/C/wamp/www/forum/create_cat.php",
+		"/C/wamp/www/forum/header.php",
+		"/C/wamp/www/forum/signin.php",
+		"/C/wamp/www/forum/signout.php",
+		"/C/wamp/www/forum/footer.php",
+		"/C/wamp/www/forum/create_topic.php",
+		"/C/wamp/www/forum/connect.php",
+		"/C/wamp/www/forum/style.css",
+		"/C/wamp/www/forum/index.php",
+		"/C/wamp/www/source/connect.php",
+		"/C/wamp/www/forum/category.php",
+		"/C/wamp/www/recados/Connections/conectdb.php",
+		"/C/wamp/www/recados/senha.php",
+		"/C/wamp/www/recados/secreta.php",
+		"/C/wamp/www/recados/Connections/conectadb.php",
+		"/C/Users/OneshoesWesley/Desktop/Oneshoes 9.html",
+		"/C/wamp/www/mvc/test/form.php",
+		"/C/wamp/www/mvc/util/Auth.php",
+		"/C/wamp/www/mvc/config.php",
+		"/C/wamp/www/mvc/controllers/index.php",
+		"/C/wamp/www/mvc/index.php",
+		"/C/wamp/www/mvc/.htaccess",
+		"/C/wamp/www/htaccess",
+		"/C/wamp/www/mvc/libs/View.php",
+		"/C/wamp/www/recados/exibe_recados.php",
+		"/C/wamp/www/gerar.php",
+		"/C/wamp/www/ler.php",
+		"/C/wamp/www/xml.php",
+		"/C/wamp/www/asd - Cópia.php",
+		"/C/wamp/www/xml2.php",
+		"/C/wamp/www/produto.xml",
+		"/C/wamp/www/index.php",
+		"/C/wamp/www/testmysql.php",
+		"//ONESHOESSERVER/wamp/www/troca/ap_troca.php",
+		"//ONESHOESSERVER/wamp/www/leftframe.php",
+		"//ONESHOESSERVER/wamp/www/topframe_admin.php",
+		"//ONESHOESSERVER/wamp/www/sair.php",
+		"//ONESHOESSERVER/wamp/www/mainframe.php",
+		"//ONESHOESSERVER/wamp/www/inicial_admin.php",
+		"//ONESHOESSERVER/wamp/www/index.php",
+		"/C/Users/OneshoesWesley/Desktop/9-9.html",
+		"/C/Users/OneshoesWesley/Desktop/CORRETO_oneshoes 04-9.html",
+		"/C/Users/OneshoesWesley/Desktop/oneshoes 04-9.html",
+		"/C/Users/OneshoesWesley/Desktop/aniversariantes.html",
+		"/C/Users/OneshoesWesley/Desktop/MKT - print.html"
+	],
+	"find":
+	{
+		"height": 36.0
+	},
+	"find_in_files":
+	{
+		"height": 92.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"id=41",
+			"best",
+			"d=41",
+			"id=31",
+			"id=41",
+			"id=31",
+			"contato",
+			"$end",
+			"end",
+			"fone",
+			"nome",
+			"contato",
+			"endereco",
+			"telefone",
+			"nome",
+			"cam",
+			"id=41",
+			"setem9",
+			"id=31",
+			"id=41",
+			"Uploads/imagens",
+			"Uploads",
+			"id=31"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"eSCREVER "
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 4,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "app/Model/Post.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 216,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								216,
+								216
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "app/Controller/PostsController.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1439,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1361,
+								1361
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "app/View/Posts/edit.ctp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 439,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								142,
+								142
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "app/View/Posts/add.ctp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 335,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								319,
+								319
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "app/View/Posts/index.ctp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1254,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								109,
+								109
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "app/Config/routes.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1730,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1268,
+								1268
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "app/View/Posts/view.ctp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 297,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								279,
+								279
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"project": "cake.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
